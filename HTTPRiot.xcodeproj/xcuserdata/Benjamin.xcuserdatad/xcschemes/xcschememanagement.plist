@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Documentation.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>HTTPRiot.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>iPhoneSampleApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>iPhoneUnitTestsRunner.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>libhttpriot.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8DC2EF4F0486A6940098B216</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0298A640F3FFBBD00EC8C01</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D038BDCD0FF298330041F570</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0788AE70FABAB3600C3207D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0F4848A0F4CC03500160DD9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

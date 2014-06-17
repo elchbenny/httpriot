@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2F6F240-B5C9-47A3-8B8D-200796C6BC89</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HTTPRiot</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>68DF91A1-CCA2-4E1E-9B92-FBB36FE33774</key>
+		<string>ssh://github.com/elchbenny/httpriot.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HTTPRiot.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>68DF91A1-CCA2-4E1E-9B92-FBB36FE33774</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/elchbenny/httpriot.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>68DF91A1-CCA2-4E1E-9B92-FBB36FE33774</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>68DF91A1-CCA2-4E1E-9B92-FBB36FE33774</string>
+			<key>IDESourceControlWCCName</key>
+			<string>httpriot</string>
+		</dict>
+	</array>
+</dict>
+</plist>
